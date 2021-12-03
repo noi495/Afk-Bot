@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "popusk",
+        "username": "MRbarthsyndrom_1",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "localhost",
+        "ip": "Redstonefun.aternos.me",
         "port": 25565,
-        "version": "1.16.4"
+        "version": "1.18"
     },
 
     "position":{
@@ -43,6 +43,6 @@
         },
 
         "chat-log": true,
-        "auto-reconnect": false
+        "auto-reconnect": true
     }
 }
